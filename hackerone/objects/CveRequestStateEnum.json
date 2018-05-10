@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "CveRequestStateEnum",
+            "description": "States of a CVE Request",
+            "fields": null
+        }
+    }
+}

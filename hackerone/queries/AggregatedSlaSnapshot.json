@@ -1,0 +1,14 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		aggregatedslasnapshot {
+			average_time_to_bounty_awarded,
+			average_time_to_first_program_response,
+			average_time_to_report_resolved,
+			average_time_to_report_triage,
+			timestamp,
+		}
+	}"
+}

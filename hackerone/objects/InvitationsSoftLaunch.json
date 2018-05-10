@@ -1,0 +1,91 @@
+{
+    "data": {
+        "__type": {
+            "name": "InvitationsSoftLaunch",
+            "description": "An invitation to join a private team as a hacker",
+            "fields": [
+                {
+                    "name": "_id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "expires_at",
+                    "type": {
+                        "name": "DateTime",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "markdown_message",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "message",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "source",
+                    "type": {
+                        "name": "InvitationSourceEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "state",
+                    "type": {
+                        "name": "InvitationStateEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "team",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Team",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "token",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

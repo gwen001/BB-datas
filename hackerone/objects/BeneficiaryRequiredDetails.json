@@ -1,0 +1,73 @@
+{
+    "data": {
+        "__type": {
+            "name": "BeneficiaryRequiredDetails",
+            "description": "A specification of the possibilities for creating a bank transfer payout preference",
+            "fields": [
+                {
+                    "name": "beneficiary_entity_type",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "beneficiary_required_fields",
+                    "type": {
+                        "name": "BeneficiaryRequiredFieldConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "description",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "fee",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "payment_type",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

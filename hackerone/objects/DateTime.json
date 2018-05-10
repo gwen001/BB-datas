@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "DateTime",
+            "description": "Converts a date to iso8601",
+            "fields": null
+        }
+    }
+}

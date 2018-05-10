@@ -1,0 +1,71 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		__schema {
+			directives,
+			mutationType {
+				description,
+				enumValues,
+				fields,
+				inputFields,
+				interfaces,
+				kind,
+				name,
+				ofType {
+					description,
+					enumValues,
+					fields,
+					inputFields,
+					interfaces,
+					kind,
+					name,
+					possibleTypes,
+				},
+				possibleTypes,
+			},
+			queryType {
+				description,
+				enumValues,
+				fields,
+				inputFields,
+				interfaces,
+				kind,
+				name,
+				ofType {
+					description,
+					enumValues,
+					fields,
+					inputFields,
+					interfaces,
+					kind,
+					name,
+					possibleTypes,
+				},
+				possibleTypes,
+			},
+			subscriptionType {
+				description,
+				enumValues,
+				fields,
+				inputFields,
+				interfaces,
+				kind,
+				name,
+				ofType {
+					description,
+					enumValues,
+					fields,
+					inputFields,
+					interfaces,
+					kind,
+					name,
+					possibleTypes,
+				},
+				possibleTypes,
+			},
+			types,
+		}
+	}"
+}

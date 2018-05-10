@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityUserInteractionEnum",
+            "description": "Severity user interaction",
+            "fields": null
+        }
+    }
+}

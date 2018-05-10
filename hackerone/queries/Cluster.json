@@ -1,0 +1,17 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		cluster {
+			created_at,
+			description,
+			id,
+			name,
+			updated_at,
+			weaknesses {
+				total_count,
+			},
+		}
+	}"
+}

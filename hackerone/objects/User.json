@@ -1,0 +1,443 @@
+{
+    "data": {
+        "__type": {
+            "name": "User",
+            "description": "A HackerOne user",
+            "fields": [
+                {
+                    "name": "_id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "address",
+                    "type": {
+                        "name": "Address",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "anc_triager",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "authentication_service",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "AuthenticationServiceEnum",
+                            "kind": "ENUM"
+                        }
+                    }
+                },
+                {
+                    "name": "badges",
+                    "type": {
+                        "name": "BadgesUsersConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "bio",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "bounties",
+                    "type": {
+                        "name": "BountyConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "created_at",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "DateTime",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "demo_hacker",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "disabled",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "duplicate_users",
+                    "type": {
+                        "name": "UserConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "email",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "hackerone_triager",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "i_can_update_username",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "impact",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "impact_percentile",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "invitation_preference",
+                    "type": {
+                        "name": "InvitationPreferenceTypeEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "invitation_queues",
+                    "type": {
+                        "name": "InvitationQueueConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "location",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "lufthansa_account",
+                    "type": {
+                        "name": "LufthansaAccount",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "member_of_verified_team",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "membership",
+                    "type": {
+                        "name": "TeamMember",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "memberships",
+                    "type": {
+                        "name": "TeamMemberConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "name",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "new_feature_notification",
+                    "type": {
+                        "name": "NewFeatureNotification",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "next_update_username_date",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "otp_backup_codes",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "payout_preferences",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "PayoutPreferenceUnion",
+                            "kind": "UNION"
+                        }
+                    }
+                },
+                {
+                    "name": "profile_picture",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "program_health_acknowledgements",
+                    "type": {
+                        "name": "ProgramHealthAcknowledgementConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "rank",
+                    "type": {
+                        "name": "Int",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "remaining_reports",
+                    "type": {
+                        "name": "Int",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "reports",
+                    "type": {
+                        "name": "ReportConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "reputation",
+                    "type": {
+                        "name": "Int",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "signal",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "signal_percentile",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "soft_launch_invitations",
+                    "type": {
+                        "name": "SoftLaunchConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "swag",
+                    "type": {
+                        "name": "SwagConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "tax_form",
+                    "type": {
+                        "name": "TaxForm",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "teams",
+                    "type": {
+                        "name": "TeamConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "totp_enabled",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "totp_supported",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "triage_user",
+                    "type": {
+                        "name": "Boolean",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "tshirt_size",
+                    "type": {
+                        "name": "TshirtSizeEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "unconfirmed_email",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "url",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "URI",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "username",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "website",
+                    "type": {
+                        "name": "String",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "whitelisted_teams",
+                    "type": {
+                        "name": "TeamConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		softlaunchconnection {
+			edges {
+				node {
+					_id,
+					expires_at,
+					id,
+					markdown_message,
+					message,
+					source,
+					state,
+					token,
+				},
+			},
+			total_count,
+		}
+	}"
+}

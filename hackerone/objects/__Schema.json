@@ -1,0 +1,59 @@
+{
+    "data": {
+        "__type": {
+            "name": "__Schema",
+            "description": "A GraphQL Schema defines the capabilities of a GraphQL server. It exposes all available types and directives on the server, as well as the entry points for query, mutation, and subscription operations.",
+            "fields": [
+                {
+                    "name": "directives",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": null,
+                            "kind": "LIST"
+                        }
+                    }
+                },
+                {
+                    "name": "mutationType",
+                    "type": {
+                        "name": "__Type",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "queryType",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "__Type",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "subscriptionType",
+                    "type": {
+                        "name": "__Type",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "types",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": null,
+                            "kind": "LIST"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

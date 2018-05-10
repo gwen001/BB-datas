@@ -1,0 +1,19 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		programhealthacknowledgementconnection {
+			edges {
+				node {
+					acknowledged,
+					created_at,
+					dismissed,
+					id,
+					reason,
+				},
+			},
+			total_count,
+		}
+	}"
+}

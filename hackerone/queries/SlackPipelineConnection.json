@@ -1,0 +1,41 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		slackpipelineconnection {
+			edges {
+				node {
+					_id,
+					channel,
+					descriptive_label,
+					id,
+					notification_report_agreed_on_going_public,
+					notification_report_assignee_changed,
+					notification_report_became_public,
+					notification_report_bounty_paid,
+					notification_report_bounty_suggested,
+					notification_report_bug_closed_as_spam,
+					notification_report_bug_duplicate,
+					notification_report_bug_informative,
+					notification_report_bug_needs_more_info,
+					notification_report_bug_new,
+					notification_report_bug_not_applicable,
+					notification_report_closed_as_resolved,
+					notification_report_comments_closed,
+					notification_report_created,
+					notification_report_internal_comment_added,
+					notification_report_manually_disclosed,
+					notification_report_not_eligible_for_bounty,
+					notification_report_public_comment_added,
+					notification_report_reopened,
+					notification_report_swag_awarded,
+					notification_report_triaged,
+					updated_at,
+					url,
+				},
+			},
+			total_count,
+		}
+	}"
+}

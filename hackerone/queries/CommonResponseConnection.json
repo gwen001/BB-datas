@@ -1,0 +1,20 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		commonresponseconnection {
+			edges {
+				node {
+					_id,
+					created_at,
+					id,
+					message,
+					title,
+					updated_at,
+				},
+			},
+			total_count,
+		}
+	}"
+}

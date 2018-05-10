@@ -1,0 +1,87 @@
+{
+    "data": {
+        "__type": {
+            "name": "SlackIntegration",
+            "description": "A Slack integration for a team",
+            "fields": [
+                {
+                    "name": "channels",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "SlackChannel",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "should_fetch_slack_channels",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "should_fetch_slack_users",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "team",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Team",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "team_url",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "users",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "SlackUser",
+                            "kind": "OBJECT"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

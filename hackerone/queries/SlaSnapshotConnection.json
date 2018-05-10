@@ -1,0 +1,35 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		slasnapshotconnection {
+			edges {
+				node {
+					average_time_to_bounty_awarded,
+					average_time_to_first_program_response,
+					average_time_to_report_resolved,
+					average_time_to_report_triage,
+					bounty_awarded_sla_misses_count,
+					created_at,
+					first_program_response_sla_failures_count,
+					first_program_response_sla_misses_count,
+					id,
+					report_resolved_sla_misses_count,
+					report_triage_sla_failures_count,
+					report_triage_sla_misses_count,
+					sla_failures_count,
+					sla_misses_count,
+					sla_on_target_count,
+				},
+			},
+			group_by {
+				average_time_to_bounty_awarded,
+				average_time_to_first_program_response,
+				average_time_to_report_resolved,
+				average_time_to_report_triage,
+				timestamp,
+			},
+		}
+	}"
+}

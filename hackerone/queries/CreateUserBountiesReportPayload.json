@@ -1,0 +1,114 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		createuserbountiesreportpayload {
+			clientMutationId,
+			errors,
+			me {
+				_id,
+				address {
+					_id,
+					city,
+					country,
+					created_at,
+					id,
+					name,
+					phone_number,
+					postal_code,
+					state,
+					street,
+				},
+				anc_triager,
+				authentication_service,
+				bio,
+				bounties {
+					total_amount,
+					total_count,
+				},
+				created_at,
+				demo_hacker,
+				disabled,
+				duplicate_users {
+					total_count,
+				},
+				email,
+				hackerone_triager,
+				i_can_update_username,
+				id,
+				impact,
+				impact_percentile,
+				invitation_preference,
+				invitation_queues {
+					total_count,
+				},
+				location,
+				lufthansa_account {
+					created_at,
+					first_name,
+					id,
+					last_name,
+					number,
+					updated_at,
+				},
+				member_of_verified_team,
+				memberships {
+					total_count,
+				},
+				name,
+				new_feature_notification {
+					description,
+					id,
+					key,
+					name,
+					url,
+				},
+				next_update_username_date,
+				otp_backup_codes,
+				profile_picture(size:small),
+				program_health_acknowledgements {
+					total_count,
+				},
+				rank,
+				reports {
+					count_by_severity,
+					total_count,
+				},
+				reputation,
+				signal,
+				signal_percentile,
+				soft_launch_invitations {
+					total_count,
+				},
+				swag {
+					any,
+					total_count,
+				},
+				tax_form {
+					created_at,
+					hello_sign_client_id,
+					id,
+					signed_at,
+					status,
+					type,
+					url,
+				},
+				teams {
+					total_count,
+				},
+				totp_enabled,
+				totp_supported,
+				triage_user,
+				tshirt_size,
+				unconfirmed_email,
+				url,
+				username,
+				website,
+				whitelisted_teams {
+					total_count,
+				},
+			},
+		}
+	}"
+}

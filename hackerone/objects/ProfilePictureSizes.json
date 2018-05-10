@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ProfilePictureSizes",
+            "description": "Different possible profile picture sizes",
+            "fields": null
+        }
+    }
+}

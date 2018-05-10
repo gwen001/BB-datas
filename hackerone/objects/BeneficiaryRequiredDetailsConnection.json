@@ -1,0 +1,32 @@
+{
+    "data": {
+        "__type": {
+            "name": "BeneficiaryRequiredDetailsConnection",
+            "description": "The connection type for BeneficiaryRequiredDetails.",
+            "fields": [
+                {
+                    "name": "edges",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "BeneficiaryRequiredDetailsEdge",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "pageInfo",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "PageInfo",
+                            "kind": "OBJECT"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

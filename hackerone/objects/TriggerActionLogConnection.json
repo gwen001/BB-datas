@@ -1,0 +1,43 @@
+{
+    "data": {
+        "__type": {
+            "name": "TriggerActionLogConnection",
+            "description": "The connection type for TriggerActionLog.",
+            "fields": [
+                {
+                    "name": "edges",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "TriggerActionLogEdge",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "pageInfo",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "PageInfo",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "total_count",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Int",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

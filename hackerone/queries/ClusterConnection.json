@@ -1,0 +1,19 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		clusterconnection {
+			edges {
+				node {
+					created_at,
+					description,
+					id,
+					name,
+					updated_at,
+				},
+			},
+			total_count,
+		}
+	}"
+}

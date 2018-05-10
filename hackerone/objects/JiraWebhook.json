@@ -1,0 +1,125 @@
+{
+    "data": {
+        "__type": {
+            "name": "JiraWebhook",
+            "description": "A JIRA webhook for a team",
+            "fields": [
+                {
+                    "name": "created_at",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "DateTime",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "last_event_received_at",
+                    "type": {
+                        "name": "DateTime",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "last_token_issued_at",
+                    "type": {
+                        "name": "DateTime",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "process_assignee_change",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "process_comment_add",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "process_priority_change",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "process_resolution_change",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "process_status_change",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "team",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Team",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "updated_at",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "DateTime",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		externalprogram {
+			_id,
+			about,
+			handle,
+			id,
+			name,
+			profile_picture(size:small),
+		}
+	}"
+}

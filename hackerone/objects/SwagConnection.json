@@ -1,0 +1,54 @@
+{
+    "data": {
+        "__type": {
+            "name": "SwagConnection",
+            "description": "The connection type for Swag.",
+            "fields": [
+                {
+                    "name": "any",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Boolean",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "edges",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "SwagEdge",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "pageInfo",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "PageInfo",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "total_count",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Int",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

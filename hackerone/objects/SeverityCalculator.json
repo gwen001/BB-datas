@@ -1,0 +1,29 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityCalculator",
+            "description": "Calculate CVSS Severity score and rating",
+            "fields": [
+                {
+                    "name": "calculated_max_severity",
+                    "type": {
+                        "name": "SeverityRatingEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

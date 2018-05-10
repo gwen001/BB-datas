@@ -1,0 +1,23 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		surveystructuredresponse {
+			_id,
+			enabled,
+			helper_text,
+			id,
+			reason,
+			survey {
+				category,
+				id,
+				question,
+				structured_responses {
+					total_count,
+				},
+				url,
+			},
+		}
+	}"
+}

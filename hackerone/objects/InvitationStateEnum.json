@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "InvitationStateEnum",
+            "description": "States an invitation can be in",
+            "fields": null
+        }
+    }
+}

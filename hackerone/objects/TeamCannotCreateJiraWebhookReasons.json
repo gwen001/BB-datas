@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TeamCannotCreateJiraWebhookReasons",
+            "description": "Different reasons why a team cannot create a jira webhook",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		surveyedge {
+			node {
+				category,
+				id,
+				question,
+				structured_responses {
+					total_count,
+				},
+				url,
+			},
+		}
+	}"
+}

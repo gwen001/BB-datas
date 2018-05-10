@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		slackuser {
+			_id,
+			avatar_small,
+			deleted,
+			email,
+			id,
+			name,
+			real_name,
+		}
+	}"
+}

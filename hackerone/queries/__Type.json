@@ -1,0 +1,37 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		__type {
+			description,
+			enumValues,
+			fields,
+			inputFields,
+			interfaces,
+			kind,
+			name,
+			ofType {
+				description,
+				enumValues,
+				fields,
+				inputFields,
+				interfaces,
+				kind,
+				name,
+				ofType {
+					description,
+					enumValues,
+					fields,
+					inputFields,
+					interfaces,
+					kind,
+					name,
+					possibleTypes,
+				},
+				possibleTypes,
+			},
+			possibleTypes,
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SubmissionStateEnum",
+            "description": "Submission states",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "PayoutPreferenceUnion",
+            "description": "A user can have payout preferences for different payment services",
+            "fields": null
+        }
+    }
+}

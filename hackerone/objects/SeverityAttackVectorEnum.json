@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityAttackVectorEnum",
+            "description": "Severity attack vector",
+            "fields": null
+        }
+    }
+}

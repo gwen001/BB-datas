@@ -1,0 +1,14 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		beneficiaryrequireddetails {
+			beneficiary_entity_type,
+			description,
+			fee,
+			id,
+			payment_type,
+		}
+	}"
+}

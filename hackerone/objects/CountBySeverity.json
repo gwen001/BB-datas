@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "CountBySeverity",
+            "description": "Will only return values for valid SeverityRatingEnum and null.",
+            "fields": null
+        }
+    }
+}

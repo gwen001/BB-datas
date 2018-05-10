@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		staticparticipantedge {
+			node {
+				_id,
+				avatar,
+				bio,
+				external_url,
+				id,
+				name,
+				year,
+			},
+		}
+	}"
+}

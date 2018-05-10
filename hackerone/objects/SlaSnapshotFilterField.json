@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SlaSnapshotFilterField",
+            "description": "Fields on which a collection of SLA snapshots can be filtered",
+            "fields": null
+        }
+    }
+}

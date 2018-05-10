@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "PermissionEnum",
+            "description": "All available permissions",
+            "fields": null
+        }
+    }
+}

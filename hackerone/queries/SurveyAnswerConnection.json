@@ -1,0 +1,20 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		surveyanswerconnection {
+			edges {
+				node {
+					_id,
+					created_at,
+					feedback,
+					id,
+					source_type,
+					updated_at,
+				},
+			},
+			total_count,
+		}
+	}"
+}

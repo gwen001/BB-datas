@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "CurrencycloudBankTransferEntityType",
+            "description": "Different entity types for currencycloud payout preferences",
+            "fields": null
+        }
+    }
+}

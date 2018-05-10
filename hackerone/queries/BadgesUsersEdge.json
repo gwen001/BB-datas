@@ -1,0 +1,55 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		badgesusersedge {
+			node {
+				_id,
+				badge {
+					_id,
+					description,
+					id,
+					image_path,
+					name,
+				},
+				created_at,
+				id,
+				user {
+					_id,
+					anc_triager,
+					authentication_service,
+					bio,
+					created_at,
+					demo_hacker,
+					disabled,
+					email,
+					hackerone_triager,
+					i_can_update_username,
+					id,
+					impact,
+					impact_percentile,
+					invitation_preference,
+					location,
+					member_of_verified_team,
+					name,
+					next_update_username_date,
+					otp_backup_codes,
+					profile_picture(size:small),
+					rank,
+					reputation,
+					signal,
+					signal_percentile,
+					totp_enabled,
+					totp_supported,
+					triage_user,
+					tshirt_size,
+					unconfirmed_email,
+					url,
+					username,
+					website,
+				},
+			},
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ExpressionLeftFieldEnum",
+            "description": "Types of left fields that an expression can have",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		activityconnection {
+			max_updated_at,
+			total_count,
+		}
+	}"
+}

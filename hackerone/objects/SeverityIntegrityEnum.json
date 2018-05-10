@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityIntegrityEnum",
+            "description": "Severity integrity",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "data": {
+        "__type": {
+            "name": "UserEdge",
+            "description": "An edge in a connection.",
+            "fields": [
+                {
+                    "name": "cursor",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "node",
+                    "type": {
+                        "name": "User",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

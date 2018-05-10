@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SurveyCategoryEnum",
+            "description": "Survey categories",
+            "fields": null
+        }
+    }
+}

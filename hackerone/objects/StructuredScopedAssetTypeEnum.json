@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "StructuredScopedAssetTypeEnum",
+            "description": "Structured Scope asset type enum",
+            "fields": null
+        }
+    }
+}

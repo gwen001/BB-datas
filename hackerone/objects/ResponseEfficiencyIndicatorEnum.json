@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ResponseEfficiencyIndicatorEnum",
+            "description": "Possible response efficiency indicators",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "data": {
+        "__type": {
+            "name": "StructuredScopeVersionConnection",
+            "description": "The connection type for StructuredScopeVersion.",
+            "fields": [
+                {
+                    "name": "edges",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "StructuredScopeVersionEdge",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "pageInfo",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "PageInfo",
+                            "kind": "OBJECT"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

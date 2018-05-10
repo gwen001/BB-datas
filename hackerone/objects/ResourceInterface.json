@@ -1,0 +1,21 @@
+{
+    "data": {
+        "__type": {
+            "name": "ResourceInterface",
+            "description": "Represents a type that can be retrieved by a URL.",
+            "fields": [
+                {
+                    "name": "url",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "URI",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

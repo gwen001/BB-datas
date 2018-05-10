@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		errorconnection {
+			edges {
+				node {
+					field,
+					id,
+					message,
+					type,
+				},
+			},
+			total_count,
+		}
+	}"
+}

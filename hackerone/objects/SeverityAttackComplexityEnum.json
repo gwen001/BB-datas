@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityAttackComplexityEnum",
+            "description": "Severity attack complexity",
+            "fields": null
+        }
+    }
+}

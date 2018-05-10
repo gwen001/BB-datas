@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "__TypeKind",
+            "description": "An enum describing what kind of type a given `__Type` is.",
+            "fields": null
+        }
+    }
+}

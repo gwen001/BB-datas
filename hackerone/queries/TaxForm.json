@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		taxform {
+			created_at,
+			hello_sign_client_id,
+			id,
+			signed_at,
+			status,
+			type,
+			url,
+		}
+	}"
+}

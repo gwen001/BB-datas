@@ -1,0 +1,25 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		cverequestsconnection {
+			edges {
+				node {
+					created_at,
+					cve_identifier,
+					description,
+					id,
+					latest_state_change_reason,
+					product,
+					product_version,
+					references,
+					state,
+					updated_at,
+					vulnerability_discovered_at,
+				},
+			},
+			total_count,
+		}
+	}"
+}

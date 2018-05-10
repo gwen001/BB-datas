@@ -1,0 +1,17 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		activitiesuserjoined {
+			_id,
+			created_at,
+			i_can_edit,
+			id,
+			internal,
+			markdown_message,
+			message,
+			updated_at,
+		}
+	}"
+}

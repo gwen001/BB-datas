@@ -1,0 +1,14 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		newfeaturenotification {
+			description,
+			id,
+			key,
+			name,
+			url,
+		}
+	}"
+}

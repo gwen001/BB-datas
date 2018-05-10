@@ -1,0 +1,26 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		clusterweaknessconnection {
+			edges {
+				node {
+					_id,
+					created_at,
+					description,
+					external_id,
+					id,
+					name,
+					updated_at,
+				},
+				team_weakness {
+					id,
+					instruction,
+					state,
+				},
+			},
+			total_count,
+		}
+	}"
+}

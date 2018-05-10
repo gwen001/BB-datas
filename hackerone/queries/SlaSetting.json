@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		slasetting {
+			_id,
+			critical_severity_resolved_staleness_threshold,
+			high_severity_resolved_staleness_threshold,
+			id,
+			low_severity_resolved_staleness_threshold,
+			medium_severity_resolved_staleness_threshold,
+			none_severity_resolved_staleness_threshold,
+		}
+	}"
+}

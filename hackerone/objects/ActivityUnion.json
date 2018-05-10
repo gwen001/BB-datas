@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ActivityUnion",
+            "description": "Activities can be of multiple types",
+            "fields": null
+        }
+    }
+}

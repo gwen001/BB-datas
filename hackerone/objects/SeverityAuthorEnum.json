@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityAuthorEnum",
+            "description": "Severity author",
+            "fields": null
+        }
+    }
+}

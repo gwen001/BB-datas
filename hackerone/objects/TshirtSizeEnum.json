@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TshirtSizeEnum",
+            "description": "Tshirt size",
+            "fields": null
+        }
+    }
+}

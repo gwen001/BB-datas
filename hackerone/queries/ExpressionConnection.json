@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		expressionconnection {
+			edges {
+				node {
+					_id,
+					id,
+					left_value,
+					operand,
+					right_value,
+				},
+			},
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "OrderDirection",
+            "description": "Possible directions for sorting a collection",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TeamPostOrderField",
+            "description": "Fields on which a collection of team posts can be ordered",
+            "fields": null
+        }
+    }
+}

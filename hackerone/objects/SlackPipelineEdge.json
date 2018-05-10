@@ -1,0 +1,29 @@
+{
+    "data": {
+        "__type": {
+            "name": "SlackPipelineEdge",
+            "description": "An edge in a connection.",
+            "fields": [
+                {
+                    "name": "cursor",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "node",
+                    "type": {
+                        "name": "SlackPipeline",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

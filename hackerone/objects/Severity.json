@@ -1,0 +1,136 @@
+{
+    "data": {
+        "__type": {
+            "name": "Severity",
+            "description": "A HackerOne severity for a report",
+            "fields": [
+                {
+                    "name": "_id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "attack_complexity",
+                    "type": {
+                        "name": "SeverityAttackComplexityEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "attack_vector",
+                    "type": {
+                        "name": "SeverityAttackVectorEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "author_type",
+                    "type": {
+                        "name": "SeverityAuthorEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "availability",
+                    "type": {
+                        "name": "SeverityAvailabilityEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "confidentiality",
+                    "type": {
+                        "name": "SeverityConfidentialityEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "created_at",
+                    "type": {
+                        "name": "DateTime",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "integrity",
+                    "type": {
+                        "name": "SeverityIntegrityEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "privileges_required",
+                    "type": {
+                        "name": "SeverityPrivilegesRequiredEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "rating",
+                    "type": {
+                        "name": "SeverityRatingEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "scope",
+                    "type": {
+                        "name": "SeverityScopeEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "score",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "user_id",
+                    "type": {
+                        "name": "Int",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "user_interaction",
+                    "type": {
+                        "name": "SeverityUserInteractionEnum",
+                        "kind": "ENUM",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

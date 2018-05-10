@@ -1,0 +1,24 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		bountyconnection {
+			edges {
+				node {
+					_id,
+					amount,
+					awarded_amount,
+					awarded_bonus_amount,
+					awarded_currency,
+					bonus_amount,
+					created_at,
+					id,
+					status,
+				},
+			},
+			total_amount,
+			total_count,
+		}
+	}"
+}

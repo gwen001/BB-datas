@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ActivityTypes",
+            "description": "Possible types for an activity",
+            "fields": null
+        }
+    }
+}

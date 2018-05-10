@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TeamInboxViewOrderField",
+            "description": "Fields on which a collection of team inbox views can be ordered",
+            "fields": null
+        }
+    }
+}

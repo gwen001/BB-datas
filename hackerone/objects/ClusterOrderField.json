@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ClusterOrderField",
+            "description": "Fields on which a collection of Cluster can be ordered",
+            "fields": null
+        }
+    }
+}

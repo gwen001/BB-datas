@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "BountyStatusEnum",
+            "description": "Status which reflect the state of a bounty",
+            "fields": null
+        }
+    }
+}

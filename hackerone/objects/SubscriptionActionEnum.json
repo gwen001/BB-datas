@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SubscriptionActionEnum",
+            "description": "Team subscription action enum",
+            "fields": null
+        }
+    }
+}

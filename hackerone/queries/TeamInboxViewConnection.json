@@ -1,0 +1,31 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		teaminboxviewconnection {
+			edges {
+				node {
+					_id,
+					assigned_to_group_ids,
+					assigned_to_user_ids,
+					built_in,
+					created_at,
+					filters,
+					hackathons,
+					id,
+					key,
+					name,
+					position,
+					reporter_ids,
+					severities,
+					substates,
+					text_query,
+					updated_at,
+					visible,
+				},
+			},
+			total_count,
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityPrivilegesRequiredEnum",
+            "description": "Severity privileges required",
+            "fields": null
+        }
+    }
+}

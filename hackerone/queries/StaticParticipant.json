@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		staticparticipant {
+			_id,
+			avatar,
+			bio,
+			external_url,
+			id,
+			name,
+			year,
+		}
+	}"
+}

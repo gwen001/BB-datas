@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "AuthenticationServiceEnum",
+            "description": "Types of authentication methods for users",
+            "fields": null
+        }
+    }
+}

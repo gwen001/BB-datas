@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ConnectionFilterLogicalOperator",
+            "description": null,
+            "fields": null
+        }
+    }
+}

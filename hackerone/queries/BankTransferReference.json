@@ -1,0 +1,27 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		banktransferreference {
+			beneficiary_required_details {
+				bank_account_country,
+				beneficiary_country,
+				currency,
+				id,
+			},
+			countries {
+				alpha2,
+				currency_code,
+				id,
+				name,
+			},
+			currencies {
+				code,
+				id,
+				name,
+			},
+			id,
+		}
+	}"
+}

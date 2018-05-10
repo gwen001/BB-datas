@@ -1,0 +1,26 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		expressionedge {
+			node {
+				_id,
+				id,
+				left_value,
+				operand,
+				right_value,
+				trigger {
+					_id,
+					action_message,
+					action_type,
+					created_at,
+					expression_operator,
+					id,
+					seeded,
+					url,
+				},
+			},
+		}
+	}"
+}

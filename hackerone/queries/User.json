@@ -1,0 +1,22 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		user(username:$var0) {
+			_id,
+			address {
+				_id,
+				city,
+				country,
+				created_at,
+				id,
+				name,
+				phone_number,
+				postal_code,
+				state,
+				street,
+			}
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "AssigneeUnion",
+            "description": "Report can be assigned to either a user or a team member group",
+            "fields": null
+        }
+    }
+}

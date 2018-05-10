@@ -1,0 +1,21 @@
+{
+    "data": {
+        "__type": {
+            "name": "InvitationInterface",
+            "description": "An interface for the common fields on a HackerOne Invitation",
+            "fields": [
+                {
+                    "name": "_id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

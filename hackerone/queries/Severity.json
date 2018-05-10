@@ -1,0 +1,24 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		severity {
+			_id,
+			attack_complexity,
+			attack_vector,
+			author_type,
+			availability,
+			confidentiality,
+			created_at,
+			id,
+			integrity,
+			privileges_required,
+			rating,
+			scope,
+			score,
+			user_id,
+			user_interaction,
+		}
+	}"
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "CurrencycloudBankTransferPaymentType",
+            "description": "Different payment types for currencycloud payout preferences",
+            "fields": null
+        }
+    }
+}

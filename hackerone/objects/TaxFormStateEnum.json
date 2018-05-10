@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TaxFormStateEnum",
+            "description": "Status of a tax form",
+            "fields": null
+        }
+    }
+}

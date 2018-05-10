@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ActorUnion",
+            "description": "The actor of an activity can be multiple types",
+            "fields": null
+        }
+    }
+}

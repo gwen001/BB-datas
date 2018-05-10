@@ -1,0 +1,586 @@
+{
+    "data": {
+        "__type": {
+            "name": "Mutation",
+            "description": null,
+            "fields": [
+                {
+                    "name": "acceptInvitation",
+                    "type": {
+                        "name": "AcceptInvitationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "acknowledgeProgramHealthAcknowledgement",
+                    "type": {
+                        "name": "AcknowledgeProgramHealthAcknowledgementPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "archiveStructuredScope",
+                    "type": {
+                        "name": "ArchiveStructuredScopePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createActivityComment",
+                    "type": {
+                        "name": "CreateActivityCommentPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createBounty",
+                    "type": {
+                        "name": "CreateBountyPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createBountySuggestion",
+                    "type": {
+                        "name": "CreateBountySuggestionPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createCoinbasePayoutPreference",
+                    "type": {
+                        "name": "CreateCoinbasePayoutPreferencePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createCurrencycloudBankTransferPayoutPreference",
+                    "type": {
+                        "name": "CreateCurrencycloudBankTransferPayoutPreferencePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createCveRequest",
+                    "type": {
+                        "name": "CreateCveRequestPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createJiraOauthUrl",
+                    "type": {
+                        "name": "CreateJiraOauthUrlPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createJiraWebhookToken",
+                    "type": {
+                        "name": "CreateJiraWebhookTokenPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createLeaveProgramSurveyAnswer",
+                    "type": {
+                        "name": "CreateLeaveProgramSurveyAnswerPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createMailingAddress",
+                    "type": {
+                        "name": "CreateMailingAddressPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createOrUpdateHackeroneToJiraEventsConfiguration",
+                    "type": {
+                        "name": "CreateOrUpdateHackeroneToJiraEventsConfigurationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createOrUpdateJiraIntegration",
+                    "type": {
+                        "name": "CreateOrUpdateJiraIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createPaypalPreference",
+                    "type": {
+                        "name": "CreatePaypalPreferencePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createRejectionSurveyAnswer",
+                    "type": {
+                        "name": "CreateRejectionSurveyAnswerPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createSlackPipeline",
+                    "type": {
+                        "name": "CreateSlackPipelinePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createStructuredScope",
+                    "type": {
+                        "name": "CreateStructuredScopePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createSwag",
+                    "type": {
+                        "name": "CreateSwagPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createTaxForm",
+                    "type": {
+                        "name": "CreateTaxFormPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createTrigger",
+                    "type": {
+                        "name": "CreateTriggerPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createUserBountiesReport",
+                    "type": {
+                        "name": "CreateUserBountiesReportPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "createUserLufthansaAccount",
+                    "type": {
+                        "name": "CreateUserLufthansaAccountPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteBiDirectionalJiraIntegration",
+                    "type": {
+                        "name": "DeleteBiDirectionalJiraIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteJiraWebhook",
+                    "type": {
+                        "name": "DeleteJiraWebhookPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deletePhabricatorIntegration",
+                    "type": {
+                        "name": "DeletePhabricatorIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteSlackPipeline",
+                    "type": {
+                        "name": "DeleteSlackPipelinePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteTeamMember",
+                    "type": {
+                        "name": "DeleteTeamMemberPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteTeamSlackIntegration",
+                    "type": {
+                        "name": "DeleteTeamSlackIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteTrigger",
+                    "type": {
+                        "name": "DeleteTriggerPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "deleteUserLufthansaAccount",
+                    "type": {
+                        "name": "DeleteUserLufthansaAccountPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "disableTwoFactorAuthentication",
+                    "type": {
+                        "name": "DisableTwoFactorAuthenticationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "dismissProgramHealthAcknowledgement",
+                    "type": {
+                        "name": "DismissProgramHealthAcknowledgementPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "enableTwoFactorAuthentication",
+                    "type": {
+                        "name": "EnableTwoFactorAuthenticationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "enableUser",
+                    "type": {
+                        "name": "EnableUserPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "generateMfaOtp",
+                    "type": {
+                        "name": "GenerateMfaOtpPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "generateTaxFormUrl",
+                    "type": {
+                        "name": "GenerateTaxFormUrlPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "launchTeam",
+                    "type": {
+                        "name": "LaunchTeamPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "launchTeamPublicly",
+                    "type": {
+                        "name": "LaunchTeamPubliclyPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "leavePrivateProgram",
+                    "type": {
+                        "name": "LeavePrivateProgramPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "lockReport",
+                    "type": {
+                        "name": "LockReportPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "markReportAsNeedsMoreInfo",
+                    "type": {
+                        "name": "MarkReportAsNeedsMoreInfoPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "markReportAsNoise",
+                    "type": {
+                        "name": "MarkReportAsNoisePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "markReportAsSignal",
+                    "type": {
+                        "name": "MarkReportAsSignalPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "programHealthAcknowledgementSeen",
+                    "type": {
+                        "name": "ProgramHealthAcknowledgementSeenPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "rejectInvitation",
+                    "type": {
+                        "name": "RejectInvitationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateAutomaticInvites",
+                    "type": {
+                        "name": "UpdateAutomaticInvitesPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateBackupCodes",
+                    "type": {
+                        "name": "UpdateBackupCodesPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateInvitationPreferences",
+                    "type": {
+                        "name": "UpdateInvitationPreferencesPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateJiraWebhook",
+                    "type": {
+                        "name": "UpdateJiraWebhookPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateLastViewedNewFeaturesAt",
+                    "type": {
+                        "name": "UpdateLastViewedNewFeaturesAtPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateMe",
+                    "type": {
+                        "name": "UpdateMePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updatePhabricatorIntegration",
+                    "type": {
+                        "name": "UpdatePhabricatorIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateReportStateToNeedsMoreInfo",
+                    "type": {
+                        "name": "UpdateReportStateToNeedsMoreInfoPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateReportStructuredScope",
+                    "type": {
+                        "name": "UpdateReportStructuredScopePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateSlackPipeline",
+                    "type": {
+                        "name": "UpdateSlackPipelinePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateSlackUser",
+                    "type": {
+                        "name": "UpdateSlackUserPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateStructuredScope",
+                    "type": {
+                        "name": "UpdateStructuredScopePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamCriticalSubmissionState",
+                    "type": {
+                        "name": "UpdateTeamCriticalSubmissionStatePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamFancySlackIntegration",
+                    "type": {
+                        "name": "UpdateTeamFancySlackIntegrationPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamMemberVisibility",
+                    "type": {
+                        "name": "UpdateTeamMemberVisibilityPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamResponseSla",
+                    "type": {
+                        "name": "UpdateTeamResponseSlaPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamSubmissionState",
+                    "type": {
+                        "name": "UpdateTeamSubmissionStatePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamSubscription",
+                    "type": {
+                        "name": "UpdateTeamSubscriptionPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamSuccessGoals",
+                    "type": {
+                        "name": "UpdateTeamSuccessGoalsPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamTriageNote",
+                    "type": {
+                        "name": "UpdateTeamTriageNotePayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTeamWeakness",
+                    "type": {
+                        "name": "UpdateTeamWeaknessPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateTrigger",
+                    "type": {
+                        "name": "UpdateTriggerPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateUserEmail",
+                    "type": {
+                        "name": "UpdateUserEmailPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateUserLufthansaAccount",
+                    "type": {
+                        "name": "UpdateUserLufthansaAccountPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "updateUserPassword",
+                    "type": {
+                        "name": "UpdateUserPasswordPayload",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

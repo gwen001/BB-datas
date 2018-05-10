@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TeamState",
+            "description": "Different possible team states",
+            "fields": null
+        }
+    }
+}

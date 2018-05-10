@@ -1,0 +1,32 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		structuredscopesconnection {
+			edges {
+				node {
+					_id,
+					archived_at,
+					asset_identifier,
+					asset_type,
+					availability_requirement,
+					confidentiality_requirement,
+					created_at,
+					eligible_for_bounty,
+					eligible_for_submission,
+					id,
+					instruction,
+					integrity_requirement,
+					max_severity,
+					reference,
+					rendered_instruction,
+					updated_at,
+					url,
+				},
+			},
+			max_updated_at,
+			total_count,
+		}
+	}"
+}

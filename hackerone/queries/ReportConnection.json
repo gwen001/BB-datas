@@ -1,0 +1,50 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		reportconnection {
+			count_by_severity,
+			edges {
+				node {
+					_id,
+					allow_singular_disclosure_after,
+					allow_singular_disclosure_at,
+					anc_reasons,
+					bounty_awarded_at,
+					bug_reporter_agreed_on_going_public_at,
+					closed_at,
+					comments_closed,
+					created_at,
+					cve_ids,
+					disclosed_at,
+					first_program_activity_at,
+					i_can_anc_review,
+					id,
+					latest_activity_at,
+					latest_public_activity_at,
+					latest_public_activity_of_reporter_at,
+					latest_public_activity_of_team_at,
+					mediation_requested_at,
+					pre_submission_review_state,
+					reference,
+					reference_link,
+					singular_disclosure_allowed,
+					singular_disclosure_disabled,
+					stage,
+					state,
+					substate,
+					suggested_bounty,
+					swag_awarded_at,
+					team_member_agreed_on_going_public_at,
+					title,
+					triaged_at,
+					url,
+					vulnerability_information,
+					vulnerability_information_html,
+				},
+			},
+			total_count,
+		}
+	}"
+}

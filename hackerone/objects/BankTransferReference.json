@@ -1,0 +1,51 @@
+{
+    "data": {
+        "__type": {
+            "name": "BankTransferReference",
+            "description": "Resources for setting up the Bank Transfer payment method",
+            "fields": [
+                {
+                    "name": "beneficiary_required_details",
+                    "type": {
+                        "name": "BeneficiaryRequiredDetail",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "countries",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "Country",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "currencies",
+                    "type": {
+                        "name": null,
+                        "kind": "LIST",
+                        "ofType": {
+                            "name": "Currency",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

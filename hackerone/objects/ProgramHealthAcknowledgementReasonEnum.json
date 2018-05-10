@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ProgramHealthAcknowledgementReasonEnum",
+            "description": "reason which reflect the state of a program health acknowledgement",
+            "fields": null
+        }
+    }
+}

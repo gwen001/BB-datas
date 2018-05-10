@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "Boolean",
+            "description": "Represents `true` or `false` values.",
+            "fields": null
+        }
+    }
+}

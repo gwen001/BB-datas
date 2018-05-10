@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "CurrencyCode",
+            "description": "Possible currencies codes for bounties",
+            "fields": null
+        }
+    }
+}

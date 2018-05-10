@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ExpressionOperandEnum",
+            "description": "Types of operands that an expression can have",
+            "fields": null
+        }
+    }
+}

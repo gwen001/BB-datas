@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TaxFormTypeEnum",
+            "description": "Type of a tax form",
+            "fields": null
+        }
+    }
+}

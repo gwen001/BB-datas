@@ -1,0 +1,20 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		slastatusconnection {
+			edges {
+				node {
+					id,
+					triage_sla_fail_in_hours,
+					triage_sla_failures_count,
+					triage_sla_misses_count,
+					triage_sla_ok_count,
+					user_id,
+				},
+			},
+			total_count,
+		}
+	}"
+}

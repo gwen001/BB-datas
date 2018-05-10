@@ -1,0 +1,20 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		structuredscopeversionconnection {
+			edges {
+				node {
+					_id,
+					archived_at,
+					created_at,
+					id,
+					instruction,
+					max_severity,
+					url,
+				},
+			},
+		}
+	}"
+}

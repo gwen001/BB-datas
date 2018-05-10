@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "InvitationUnion",
+            "description": "Invitations can be of multiple types",
+            "fields": null
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SlaSnapshotIntervalEnum",
+            "description": "Time intervals sla snapshots can be grouped by",
+            "fields": null
+        }
+    }
+}

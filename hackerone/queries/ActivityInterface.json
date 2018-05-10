@@ -1,0 +1,16 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		activityinterface {
+			_id,
+			created_at,
+			i_can_edit,
+			internal,
+			markdown_message,
+			message,
+			updated_at,
+		}
+	}"
+}

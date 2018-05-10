@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ReportFilterEnum",
+            "description": "Filters which can be used to query reports",
+            "fields": null
+        }
+    }
+}

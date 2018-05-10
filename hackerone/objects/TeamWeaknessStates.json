@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "TeamWeaknessStates",
+            "description": "Possible states of how a weakness can be configured for a team",
+            "fields": null
+        }
+    }
+}

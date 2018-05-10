@@ -1,0 +1,18 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		beneficiaryrequireddetailsconnection {
+			edges {
+				node {
+					beneficiary_entity_type,
+					description,
+					fee,
+					id,
+					payment_type,
+				},
+			},
+		}
+	}"
+}

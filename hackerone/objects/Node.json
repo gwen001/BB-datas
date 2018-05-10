@@ -1,0 +1,21 @@
+{
+    "data": {
+        "__type": {
+            "name": "Node",
+            "description": "An object with an ID.",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

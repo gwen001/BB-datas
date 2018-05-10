@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityScopeEnum",
+            "description": "Severity scope",
+            "fields": null
+        }
+    }
+}

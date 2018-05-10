@@ -1,0 +1,29 @@
+{
+    "data": {
+        "__type": {
+            "name": "BadgesUsersEdge",
+            "description": "An edge in a connection.",
+            "fields": [
+                {
+                    "name": "cursor",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "node",
+                    "type": {
+                        "name": "BadgesUsers",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

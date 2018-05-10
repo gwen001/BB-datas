@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "ReportPreSubmissionReviewStateEnum",
+            "description": "Pre submission review states a report can be in",
+            "fields": null
+        }
+    }
+}

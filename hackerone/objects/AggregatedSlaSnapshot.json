@@ -1,0 +1,53 @@
+{
+    "data": {
+        "__type": {
+            "name": "AggregatedSlaSnapshot",
+            "description": "An SLA snapshot aggregate",
+            "fields": [
+                {
+                    "name": "average_time_to_bounty_awarded",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "average_time_to_first_program_response",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "average_time_to_report_resolved",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "average_time_to_report_triage",
+                    "type": {
+                        "name": "Float",
+                        "kind": "SCALAR",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "timestamp",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "DateTime",
+                            "kind": "SCALAR"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

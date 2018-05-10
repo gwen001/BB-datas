@@ -1,0 +1,37 @@
+{
+    "data": {
+        "__type": {
+            "name": "ClusterWeaknessEdge",
+            "description": "An edge in a connection.",
+            "fields": [
+                {
+                    "name": "cursor",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "String",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "node",
+                    "type": {
+                        "name": "Weakness",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "team_weakness",
+                    "type": {
+                        "name": "TeamWeakness",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

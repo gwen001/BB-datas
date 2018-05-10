@@ -1,0 +1,136 @@
+{
+    "data": {
+        "__type": {
+            "name": "Query",
+            "description": "Root entity of the Hackerone Schema",
+            "fields": [
+                {
+                    "name": "bank_transfer_reference",
+                    "type": {
+                        "name": "BankTransferReference",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "clusters",
+                    "type": {
+                        "name": "ClusterConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "external_program",
+                    "type": {
+                        "name": "ExternalProgram",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "id",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "ID",
+                            "kind": "SCALAR"
+                        }
+                    }
+                },
+                {
+                    "name": "me",
+                    "type": {
+                        "name": "User",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "node",
+                    "type": {
+                        "name": "Node",
+                        "kind": "INTERFACE",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "query",
+                    "type": {
+                        "name": null,
+                        "kind": "NON_NULL",
+                        "ofType": {
+                            "name": "Query",
+                            "kind": "OBJECT"
+                        }
+                    }
+                },
+                {
+                    "name": "reports",
+                    "type": {
+                        "name": "ReportConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "resource",
+                    "type": {
+                        "name": "ResourceInterface",
+                        "kind": "INTERFACE",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "session",
+                    "type": {
+                        "name": "Session",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "severity_calculator",
+                    "type": {
+                        "name": "SeverityCalculator",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "sla_statuses",
+                    "type": {
+                        "name": "SlaStatusConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "surveys",
+                    "type": {
+                        "name": "SurveyConnectionType",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "teams",
+                    "type": {
+                        "name": "TeamConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                },
+                {
+                    "name": "users",
+                    "type": {
+                        "name": "UserConnection",
+                        "kind": "OBJECT",
+                        "ofType": null
+                    }
+                }
+            ]
+        }
+    }
+}

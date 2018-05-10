@@ -1,0 +1,13 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		productedition {
+			display_name,
+			hacker_invitations_enabled,
+			id,
+			saas_deal,
+		}
+	}"
+}

@@ -1,0 +1,22 @@
+{
+    "variables": {
+        "var0": "__ARGV2__"
+    },
+    "query": "query ($var0:String!) {
+		teammemberconnection {
+			edges {
+				node {
+					_id,
+					auto_subscribe,
+					concealed,
+					created_at,
+					i_can_leave_team,
+					id,
+					permissions,
+					slack_user_id,
+				},
+			},
+			total_count,
+		}
+	}"
+}

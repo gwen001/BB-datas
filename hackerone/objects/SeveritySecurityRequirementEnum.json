@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeveritySecurityRequirementEnum",
+            "description": "Severity security requirement rating",
+            "fields": null
+        }
+    }
+}

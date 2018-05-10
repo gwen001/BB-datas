@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "SeverityAvailabilityEnum",
+            "description": "Severity availability",
+            "fields": null
+        }
+    }
+}

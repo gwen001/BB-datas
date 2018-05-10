@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "URI",
+            "description": "Represents a RFC compliant URI string. It is often used to fetch an object.",
+            "fields": null
+        }
+    }
+}

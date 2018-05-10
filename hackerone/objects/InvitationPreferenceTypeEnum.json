@@ -1,0 +1,9 @@
+{
+    "data": {
+        "__type": {
+            "name": "InvitationPreferenceTypeEnum",
+            "description": "User invitation preference type",
+            "fields": null
+        }
+    }
+}
