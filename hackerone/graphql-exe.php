@@ -9,7 +9,7 @@ function usage( $err=null ) {
 	exit();
 }
 
-if( $_SERVER['argc'] != 2 ) {
+if( $_SERVER['argc'] < 2 ) {
   usage();
 }
 
