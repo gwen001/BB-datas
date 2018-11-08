@@ -38,7 +38,7 @@ Researchers: **~750**
 Programs: **?**  
 Visibility: **public, private**  
 Public disclosure: **no**  
-Reputation: **based on reports status, rewards and reports quality
+Reputation: **based on reports status, rewards and reports quality**  
 Additional metrics: **no**  
 Payout methods: **bank transfer**  
 <br /><br />
@@ -68,7 +68,7 @@ Visibility: **public, private, vetted**
 Public disclosure: **yes**  
 Reputation: **reports status and reports severity**  
 Additional metrics: **-**  
-Payout methods: **HKN (Hacken crypto currency)  
+Payout methods: **HKN (Hacken crypto currency)**  
 <br /><br />
 
 ![cobalt](images/bb-platform-cobalt.png)
@@ -125,7 +125,7 @@ Public disclosure: **no**
 Reputation: **no**  
 Additional metrics: **no**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
-Extra info: ** 
+**Extra info:** 
 Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
@@ -154,7 +154,7 @@ Visibility: **public, private**
 Public disclosure: **no**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **-**  
-Payout methods: **Paypal, bank transfer (Japan)  
+Payout methods: **Paypal, bank transfer (Japan)**  
 
 <br /><br />
 
