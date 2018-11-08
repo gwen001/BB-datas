@@ -180,8 +180,8 @@ Researchers: **?**
 Programs: **?**  
 Visibility: **private**  
 Public disclosure: **?**  
-Reputation (karma score): **?**  
-Additional metrics: **?**  
+Reputation (karma score): **reports status and rewards**  
+Additional metrics: **relevancy score, bounty score**  
 Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
