@@ -85,11 +85,11 @@ Additional metrics: **no**
 Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
-![Synack](images/bb-platform-synack.png)
+![Synack Red Team](images/bb-platform-synack.png)
 
 Link: [https://www.synack.com/](https://www.synack.com/)  
 Country: **US**  
-Registration: **?**  
+Registration: **tutorial, video interview, technical assessments, background check, ID verification**  
 Researchers: **?**  
 Programs: **?**  
 Visibility: **?**  
