@@ -18,13 +18,13 @@ Payout methods: Paypal, Coinbase
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
 
 Link: [https://www.bugcrowd.com/](https://www.bugcrowd.com/)  
-Country: US  
-Registration: public  
+Country: _US_  
+Registration: __public__  
 Researchers: ?  
 Programs: ?  
-Visibility: public, private  
+Visibility: *public, private*  
 Public disclosure: no  
-Reputation (kudos): based on reports criticity  
+Reputation (kudos): **based on reports criticity**  
 Additional metrics: accuracy  
 Payout methods: Paypal, Payoneer  
 <br /><br />
