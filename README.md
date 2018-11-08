@@ -62,7 +62,7 @@ Payout methods: **bank transfer**
 Link: [https://hackenproof.com/](https://hackenproof.com/)  
 Country: **Estonia**  
 Registration: **public**  
-Researchers: **?**  
+Researchers: **~1000**  
 Programs: **?**  
 Visibility: **public, private, vetted**  
 Public disclosure: **yes**  
