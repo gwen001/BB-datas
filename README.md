@@ -1,18 +1,18 @@
-Last update: 2018-11-08
+**Last update:** 2018-11-08
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
 
 Link: [https://hackerone.com/](https://hackerone.com/)  
-Country: US  
-Registration: public  
-Researchers: ?  
-Programs: ?  
-Visibility: public, private  
-Public disclosure: yes  
-Reputation: based on reports status and rewards  
-Additional metrics: signal, impact  
-Payout methods: Paypal, Coinbase  
+*Country:* US  
+*Registration:* public  
+*Researchers:* ?  
+*Programs:* ?  
+*Visibility:* public, private  
+*Public disclosure:* yes  
+*Reputation:* based on reports status and rewards  
+*Additional metrics:* signal, impact  
+*Payout methods:* Paypal, Coinbase  
 <br /><br />
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
@@ -31,30 +31,30 @@ Payout methods: _Paypal, Payoneer_
 
 ![Bounty Factory](images/bb-platform-bountyfactory.png)
 
-Link: [https://bountyfactory.io/](https://bountyfactory.io/)  
-Country: France  
-Registration: public  
-Researchers: ~750  
-Programs: ?  
-Visibility: public, private  
-Public disclosure: no  
-Reputation: based on reports status, rewards and reports quality
-Additional metrics: no  
-Payout methods: bank transfer  
+**Link:** [https://bountyfactory.io/](https://bountyfactory.io/)  
+**Country:** France  
+**Registration:** public  
+**Researchers:** ~750  
+**Programs:** ?  
+**Visibility:** public, private  
+**Public disclosure:** no  
+**Reputation:** based on reports status, rewards and reports quality
+**Additional metrics:** no  
+**Payout methods:** bank transfer  
 <br /><br />
 
 ![Yogosha](images/bb-platform-yogosha.png)
 
 Link: [https://www.yogosha.com/](https://www.yogosha.com/)  
-Country: France  
-Registration: test required  
-Researchers: ~150  
-Programs: ?  
-Visibility: public, private  
-Public disclosure: no  
-Reputation: ?  
-Additional metrics: reports quality  
-Payout methods: bank transfer  
+Country: **France**  
+Registration: **test required**  
+Researchers: **~150**  
+Programs: **?**  
+Visibility: **public, private**  
+Public disclosure: **no**  
+Reputation: **?**  
+Additional metrics: **reports quality**  
+Payout methods: **bank transfer**  
 <br /><br />
 
 ![HackenProof](images/bb-platform-hackenproof.png)
