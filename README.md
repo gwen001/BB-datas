@@ -7,7 +7,7 @@ Link: [https://hackerone.com/](https://hackerone.com/)
 Country: **US**  
 Registration: **public**  
 Researchers: **?**  
-Programs: **~1200**  
+Programs: **+1200**  
 Visibility: **public, private**  
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
@@ -161,14 +161,28 @@ Payout methods: **Paypal, bank transfer (Japan)**
 
 Link: [https://www.cesppa.com/](https://www.cesppa.com/)  
 Country: **?**  
-Registration: **?**  
+Registration: **public**  
 Researchers: **?**  
 Programs: **?**  
 Visibility: **?**  
 Public disclosure: **?**  
 Reputation: **?**  
 Additional metrics: **?**  
-Payout methods: **?**  
+Payout methods: **Paypal**  
+<br /><br />
+
+![SafeHats](images/bb-platform-safehats.png)
+
+Link: [https://safehats.com/](https://safehats.com/)  
+Country: **India**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **private**  
+Public disclosure: **?**  
+Reputation (karma score): **?**  
+Additional metrics: **?**  
+Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
