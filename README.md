@@ -87,7 +87,7 @@ Payout methods: **Paypal, Bitcoin**
 
 ![Synack Red Team](images/bb-platform-synack.png)
 
-Link: [https://www.synack.com/](https://www.synack.com/)  
+Link: [https://www.synack.com/red-team/](https://www.synack.com/red-team/)  
 Country: **US**  
 Registration: **tutorial, video interview, technical assessments, background check, ID verification**  
 Researchers: **?**  
