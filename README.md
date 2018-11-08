@@ -12,7 +12,7 @@ Visibility: **public, private**
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **signal, impact**  
-Payout methods: **Paypal, Coinbase**  
+Payout methods: **Paypal, Coinbase, Bank Transfer**  
 <br /><br />
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
