@@ -12,7 +12,7 @@ Visibility: **public, private**
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **signal, impact**  
-Payout methods: **Paypal, Coinbase, Bank Transfer**  
+Payout methods: **Paypal, Coinbase, bank transfer** 
 <br /><br />
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
@@ -60,7 +60,7 @@ Payout methods: **bank transfer**
 ![HackenProof](images/bb-platform-hackenproof.png)
 
 Link: [https://hackenproof.com/](https://hackenproof.com/)  
-Country: **Ukraine**  
+Country: **Estonia**  
 Registration: **public**  
 Researchers: **?**  
 Programs: **?**  
