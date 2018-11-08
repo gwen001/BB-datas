@@ -160,7 +160,7 @@ Payout methods: **Paypal, bank transfer (Japan)**
 ![CESPPA](images/bb-platform-cesppa.png)
 
 Link: [https://www.cesppa.com/](https://www.cesppa.com/)  
-Country: **?**  
+Country: **US**  
 Registration: **public**  
 Researchers: **?**  
 Programs: **?**  
