@@ -132,9 +132,9 @@ Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price
 ![Detectify](images/bb-platform-detectify.png)
 
 Link: [https://cs.detectify.com/](https://cs.detectify.com/)  
-Country: **?**  
+Country: **Sweden**  
 Registration: **?**  
-Researchers: **?**  
+Researchers: **+150**  
 Programs: **?**  
 Visibility: **?**  
 Public disclosure: **?**  
