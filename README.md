@@ -155,7 +155,20 @@ Public disclosure: **no**
 Reputation: **based on reports status and rewards**  
 Additional metrics: **-**  
 Payout methods: **Paypal, bank transfer (Japan)**  
+<br /><br />
 
+![CESPPA](images/bb-platform-cesppa.png)
+
+Link: [https://www.cesppa.com/](https://www.cesppa.com/)  
+Country: **?**  
+Registration: **?**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
 <br /><br />
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
