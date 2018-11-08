@@ -1,9 +1,9 @@
 Last update: 2018-11-08
-<br />
+<br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
 
-Link: [https://hackerone.com/](https://hackerone.com/){:class="flashlink" target="_blank"}  
+Link: [https://hackerone.com/](https://hackerone.com/)  
 Country: US  
 Registration: public  
 Researchers: ?  
@@ -17,7 +17,7 @@ Payout methods: Paypal, Coinbase
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
 
-Link: [https://www.bugcrowd.com/](https://www.bugcrowd.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.bugcrowd.com/](https://www.bugcrowd.com/)  
 Country: US  
 Registration: public  
 Researchers: ?  
@@ -31,7 +31,7 @@ Payout methods: Paypal, Payoneer
 
 ![Bounty Factory](images/bb-platform-bountyfactory.png)
 
-Link: [https://bountyfactory.io/](https://bountyfactory.io/){:class="flashlink" target="_blank"}  
+Link: [https://bountyfactory.io/](https://bountyfactory.io/)  
 Country: France  
 Registration: public  
 Researchers: ~750  
@@ -45,7 +45,7 @@ Payout methods: bank transfer
 
 ![Yogosha](images/bb-platform-yogosha.png)
 
-Link: [https://www.yogosha.com/](https://www.yogosha.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.yogosha.com/](https://www.yogosha.com/)  
 Country: France  
 Registration: test required  
 Researchers: ~150  
@@ -59,7 +59,7 @@ Payout methods: bank transfer
 
 ![HackenProof](images/bb-platform-hackenproof.png)
 
-Link: [https://hackenproof.com/](https://hackenproof.com/){:class="flashlink" target="_blank"}  
+Link: [https://hackenproof.com/](https://hackenproof.com/)  
 Country: Ukraine  
 Registration: public  
 Researchers: ?  
@@ -73,7 +73,7 @@ Payout methods: HKN (Hacken crypto currency)
 
 ![cobalt](images/bb-platform-cobalt.png)
 
-Link: [https://cobalt.io/](https://cobalt.io/){:class="flashlink" target="_blank"}  
+Link: [https://cobalt.io/](https://cobalt.io/)  
 Country: US  
 Registration: invitation required  
 Researchers: ?  
@@ -87,7 +87,7 @@ Payout methods: Paypal, Bitcoin
 
 ![Synack](images/bb-platform-synack.png)
 
-Link: [https://www.synack.com/](https://www.synack.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.synack.com/](https://www.synack.com/)  
 Country: US  
 Registration: ?  
 Researchers: ?  
@@ -101,7 +101,7 @@ Payout methods: ?
 
 ![Intigriti](images/bb-platform-intigriti.png)
 
-Link: [https://www.intigriti.com/](https://www.intigriti.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.intigriti.com/](https://www.intigriti.com/)  
 Country: Belgium  
 Registration: public  
 Researchers: ?  
@@ -115,7 +115,7 @@ Payout methods: bank transfer
 
 ![Zerocopter](images/bb-platform-zerocopter.png)
 
-Link: [https://www.zerocopter.com/](https://www.zerocopter.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.zerocopter.com/](https://www.zerocopter.com/)  
 Country: Netherlands  
 Registration: disabled  
 Researchers: ?  
@@ -126,12 +126,12 @@ Reputation: no
 Additional metrics: no  
 Payout methods: Paypal, Bitcoin, bank transfer  
 Extra info:  
-Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list){:class="flashlink" target="_blank"})  
+Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
 ![AntiHack.me](images/bb-platform-antihackme.png)
 
-Link: [https://www.antihack.me/](https://www.antihack.me/){:class="flashlink" target="_blank"}  
+Link: [https://www.antihack.me/](https://www.antihack.me/)  
 Country: Singapore  
 Registration: public  
 Researchers: ?  
@@ -145,7 +145,7 @@ Payout methods: Paypal
 
 ![BugBounty.jp](images/bb-platform-bugbountyjp.png)
 
-Link: [https://bugbounty.jp/](https://bugbounty.jp/){:class="flashlink" target="_blank"}  
+Link: [https://bugbounty.jp/](https://bugbounty.jp/)  
 Country: Japan  
 Registration: public  
 Researchers: ~1500  
@@ -160,7 +160,7 @@ Payout methods: Paypal, bank transfer (Japan)
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
 
-Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/){:class="flashlink" target="_blank"}  
+Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
 Country: France  
 Registration: good luck  
 Researchers: ?  
