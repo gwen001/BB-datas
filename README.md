@@ -129,6 +129,20 @@ Payout methods: **Paypal, Bitcoin, bank transfer**
 Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
+![Detectify](images/bb-platform-detectify.png)
+
+Link: [https://cs.detectify.com/](https://cs.detectify.com/)  
+Country: **?**  
+Registration: **?**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
+<br /><br />
+
 ![AntiHack.me](images/bb-platform-antihackme.png)
 
 Link: [https://www.antihack.me/](https://www.antihack.me/)  
@@ -198,4 +212,3 @@ Reputation: **?**
 Additional metrics: **?**  
 Payout methods: **?**  
 <br /><br />
-
