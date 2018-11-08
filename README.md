@@ -19,14 +19,14 @@ Payout methods: Paypal, Coinbase
 
 Link: [https://www.bugcrowd.com/](https://www.bugcrowd.com/)  
 Country: _US_  
-Registration: __public__  
-Researchers: ?  
-Programs: ?  
-Visibility: *public, private*  
-Public disclosure: no  
-Reputation (kudos): **based on reports criticity**  
-Additional metrics: accuracy  
-Payout methods: Paypal, Payoneer  
+Registration: _public_  
+Researchers: _?_  
+Programs: _?_  
+Visibility: _public, private_  
+Public disclosure: _no_  
+Reputation (kudos): _based on reports criticity_  
+Additional metrics: _accuracy_  
+Payout methods: _Paypal, Payoneer_  
 <br /><br />
 
 ![Bounty Factory](images/bb-platform-bountyfactory.png)
