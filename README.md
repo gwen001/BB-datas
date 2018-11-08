@@ -7,7 +7,7 @@ Link: [https://hackerone.com/](https://hackerone.com/)
 Country: **US**  
 Registration: **public**  
 Researchers: **?**  
-Programs: **?**  
+Programs: 1236 (Source: https://hackerone.com/metrics.json)
 Visibility: **public, private**  
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
