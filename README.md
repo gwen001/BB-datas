@@ -1,6 +1,38 @@
 **Last update:** 2018-11-08
 <br /><hr /><br />
 
+<table>
+<tr>
+<td>
+![hackerone](images/bb-platform-hackerone.png)
+
+Link: [https://hackerone.com/](https://hackerone.com/)  
+Country: **US**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **+1200**  
+Visibility: **public, private**  
+Public disclosure: **yes**  
+Reputation: **based on reports status and rewards**  
+Additional metrics: **signal, impact**  
+Payout methods: **Paypal, Coinbase, bank transfer** 
+</td>
+<td>
+![Bugcrowd](images/bb-platform-bugcrowd.png)
+
+Link: [https://www.bugcrowd.com/](https://www.bugcrowd.com/)  
+Country: **US**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **public, private**  
+Public disclosure: **no**  
+Reputation (kudos): **based on reports criticity**  
+Additional metrics: **accuracy**  
+Payout methods: **Paypal, Payoneer**  
+</td>
+</tr>
+</table>
 ![hackerone](images/bb-platform-hackerone.png)
 
 Link: [https://hackerone.com/](https://hackerone.com/)  
