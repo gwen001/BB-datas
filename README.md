@@ -7,11 +7,11 @@ Link: [https://hackerone.com/](https://hackerone.com/)
 Country: **US**  
 Registration: **public**  
 Researchers: **?**  
-Programs: **+1200**  
+Programs: **1200+**  
 Visibility: **public, private**  
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
-Additional metrics: **signal, impact**  
+Additional metrics: **signal, impact, badges**  
 Payout methods: **Paypal, Coinbase, bank transfer** 
 <br /><br />
 
@@ -134,7 +134,7 @@ Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price
 Link: [https://cs.detectify.com/](https://cs.detectify.com/)  
 Country: **Sweden**  
 Registration: **invite only**  
-Researchers: **+150**  
+Researchers: **150+**  
 Programs: **N/A**  
 Visibility: **private**  
 Public disclosure: **no**  
@@ -142,7 +142,7 @@ Reputation: **vulnerability severity and popularity**
 Additional metrics: **?**  
 Payout methods: **payment handled through Bugcrowd**  
 **Extra infos:**
-Vulnerabilities are submitted to Detectify continuously, implemented into Detectify scanners and researchers are rewarded as their vulnerabilities are found in Detectify customer's scans, a unique model which separates Detectify Crowdsource from other platforms. Detectify does not work with programs in that sense, but instead focus our researchers' attention towards technology types used by a range of companies.
+Vulnerabilities are submitted to Detectify continuously, implemented into Detectify scanners and researchers are rewarded as their vulnerabilities are found in Detectify customer's scans, a unique model which separates Detectify Crowdsource from other platforms. Detectify does not work with programs in that sense, but instead focus Detectify researchers' attention towards technology types used by a range of companies.
 <br /><br />
 
 ![AntiHack.me](images/bb-platform-antihackme.png)
@@ -213,4 +213,18 @@ Public disclosure: **?**
 Reputation: **?**  
 Additional metrics: **?**  
 Payout methods: **?**  
+<br /><br />
+
+![Open Bug Bounty](images/bb-platform-openbugbounty.png)
+
+Link: [https://www.openbugbounty.org/](https://www.openbugbounty.org/)  
+Country: **?**  
+Registration: **public**  
+Researchers: **7500+**  
+Programs: **N/A**  
+Visibility: **N/A**  
+Public disclosure: **yes**  
+Reputation: **?**  
+Additional metrics: **recommendations, badges**  
+Payout methods: **up to the company**  
 <br /><br />
