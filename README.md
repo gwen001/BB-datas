@@ -1,7 +1,7 @@
 **Last update:** 2018-11-08
 <br /><hr /><br />
 
-<table>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td>
 ![hackerone](images/bb-platform-hackerone.png)
@@ -33,6 +33,7 @@ Payout methods: **Paypal, Payoneer**
 </td>
 </tr>
 </table>
+
 ![hackerone](images/bb-platform-hackerone.png)
 
 Link: [https://hackerone.com/](https://hackerone.com/)  
