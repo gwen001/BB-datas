@@ -201,20 +201,6 @@ Additional metrics: **relevancy score, bounty score**
 Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
-![BugBountyZone](images/bb-platform-bugbountyzone.png)
-
-Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
-Country: **France**  
-Registration: **good luck**  
-Researchers: **?**  
-Programs: **?**  
-Visibility: **?**  
-Public disclosure: **?**  
-Reputation: **?**  
-Additional metrics: **?**  
-Payout methods: **?**  
-<br /><br />
-
 ![Open Bug Bounty](images/bb-platform-openbugbounty.png)
 
 Link: [https://www.openbugbounty.org/](https://www.openbugbounty.org/)  
@@ -227,4 +213,18 @@ Public disclosure: **yes**
 Reputation: **?**  
 Additional metrics: **recommendations, badges**  
 Payout methods: **up to the company**  
+<br /><br />
+
+![BugBountyZone](images/bb-platform-bugbountyzone.png)
+
+Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
+Country: **France**  
+Registration: **good luck**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
 <br /><br />
