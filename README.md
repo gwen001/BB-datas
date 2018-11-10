@@ -213,8 +213,7 @@ Public disclosure: **yes**
 Reputation: **?**  
 Additional metrics: **recommendations, badges**  
 Payout methods: **up to the company**  
-**Extra infos:**  
-Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
+**Extra infos:** Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
 <br /><br />
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
