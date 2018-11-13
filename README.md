@@ -126,7 +126,7 @@ Reputation: **no**
 Additional metrics: **no**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
 **Extra info:** 
-Reward fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
+Rewards fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
 ![Detectify](images/bb-platform-detectify.png)
