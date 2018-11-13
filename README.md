@@ -203,6 +203,22 @@ Additional metrics: **relevancy score, bounty score**
 Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
+![Federacy](images/bb-platform-federacy.png)
+
+Link: [https://www.federacy.com/](https://www.federacy.com/)  
+Country: **US**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **Paypal, Venmo, Bitcoin, Ethereum**  
+**Extra infos:**
+Currently in a closed beta. If you signed up without an invitation code, there is a hard limit set on your account allowing only 3 reports to be submitted per week.
+<br /><br />
+
 ![Hacktrophy](images/bb-platform-hacktrophy.png)
 
 Link: [https://hacktrophy.com/en/](https://hacktrophy.com/en/)  
@@ -233,20 +249,6 @@ Additional metrics: **?**
 Payout methods: **Paypal, bank transfer (Finland)**  
 <br /><br />
 
-![BugBountyZone](images/bb-platform-bugbountyzone.png)
-
-Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
-Country: **France**  
-Registration: **good luck**  
-Researchers: **?**  
-Programs: **?**  
-Visibility: **?**  
-Public disclosure: **?**  
-Reputation: **?**  
-Additional metrics: **?**  
-Payout methods: **?**  
-<br /><br />
-
 ![Open Bug Bounty](images/bb-platform-openbugbounty.png)
 
 Link: [https://www.openbugbounty.org/](https://www.openbugbounty.org/)  
@@ -261,4 +263,18 @@ Additional metrics: **recommendations, badges**
 Payout methods: **up to the company**  
 **Extra infos:**
 Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
+<br /><br />
+
+![BugBountyZone](images/bb-platform-bugbountyzone.png)
+
+Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
+Country: **France**  
+Registration: **good luck**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
 <br /><br />
