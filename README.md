@@ -212,7 +212,7 @@ Visibility: **?**
 Public disclosure: **?**  
 Reputation: **?**  
 Additional metrics: **?**  
-Payout methods: **?**  
+Payout methods: **Paypal, Bitcoin, bank transfer**  
 **Extra infos:**
 Rewards limit by month/year.
 <br /><br />
@@ -228,7 +228,7 @@ Visibility: **?**
 Public disclosure: **?**  
 Reputation: **?**  
 Additional metrics: **?**  
-Payout methods: **?**  
+Payout methods: **Paypal, bank transfer (Finland)**  
 <br /><br />
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
