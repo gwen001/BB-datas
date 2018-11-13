@@ -180,11 +180,13 @@ Country: **US**
 Registration: **public**  
 Researchers: **?**  
 Programs: **?**  
-Visibility: **?**  
-Public disclosure: **?**  
-Reputation: **?**  
-Additional metrics: **?**  
-Payout methods: **Paypal**  
+Visibility: **public, private, exclusive**  
+Public disclosure: **no**  
+Reputation: **wip**  
+Additional metrics: **no**  
+Payout methods: **Paypal, cryptocurrency (BTC, LTC, ETH)**  
+**Extra infos:**
+Triage team can be reached on Bug Bounty World slack at #cesppa
 <br /><br />
 
 ![SafeHats](images/bb-platform-safehats.png)
