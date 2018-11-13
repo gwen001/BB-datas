@@ -224,15 +224,15 @@ Currently in a closed beta. If you signed up without an invitation code, there i
 Link: [https://hacktrophy.com/en/](https://hacktrophy.com/en/)  
 Country: **Slovak Republic**  
 Registration: **public**  
-Researchers: **?**  
+Researchers: **600+**  
 Programs: **?**  
-Visibility: **?**  
-Public disclosure: **?**  
-Reputation: **?**  
+Visibility: **public, private**  
+Public disclosure: **yes**  
+Reputation: **no**  
 Additional metrics: **?**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
 **Extra infos:**
-Rewards limit by month/year.
+Programs set rewards limit by month/year.
 <br /><br />
 
 ![Hackrfi](images/bb-platform-hackrfi.png)
