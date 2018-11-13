@@ -217,6 +217,20 @@ Payout methods: **?**
 Rewards limit by month/year.
 <br /><br />
 
+![Hackrfi](images/bb-platform-hackrfi.png)
+
+Link: [https://hackr.fi/en/](https://hackr.fi/en/)  
+Country: **Finland**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
+<br /><br />
+
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
 
 Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
