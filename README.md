@@ -1,4 +1,4 @@
-**Last update:** 2018-11-10
+**Last update:** 2018-11-13
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
@@ -201,19 +201,20 @@ Additional metrics: **relevancy score, bounty score**
 Payout methods: **Paypal, Bitcoin**  
 <br /><br />
 
-![Open Bug Bounty](images/bb-platform-openbugbounty.png)
+![Hacktrophy](images/bb-platform-hacktrophy.png)
 
-Link: [https://www.openbugbounty.org/](https://www.openbugbounty.org/)  
-Country: **?**  
+Link: [https://hacktrophy.com/en/](https://hacktrophy.com/en/)  
+Country: **Slovak Republic**  
 Registration: **public**  
-Researchers: **7500+**  
-Programs: **N/A**  
-Visibility: **N/A**  
-Public disclosure: **yes**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
 Reputation: **?**  
-Additional metrics: **recommendations, badges**  
-Payout methods: **up to the company**  
-**Extra infos:** Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
+Additional metrics: **?**  
+Payout methods: **?**  
+**Extra infos:**
+Rewards limit by month/year.
 <br /><br />
 
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
@@ -228,4 +229,20 @@ Public disclosure: **?**
 Reputation: **?**  
 Additional metrics: **?**  
 Payout methods: **?**  
+<br /><br />
+
+![Open Bug Bounty](images/bb-platform-openbugbounty.png)
+
+Link: [https://www.openbugbounty.org/](https://www.openbugbounty.org/)  
+Country: **?**  
+Registration: **public**  
+Researchers: **7500+**  
+Programs: **N/A**  
+Visibility: **N/A**  
+Public disclosure: **yes**  
+Reputation: **?**  
+Additional metrics: **recommendations, badges**  
+Payout methods: **up to the company**  
+**Extra infos:**
+Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
 <br /><br />
