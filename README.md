@@ -229,10 +229,10 @@ Programs: **?**
 Visibility: **public, private**  
 Public disclosure: **yes**  
 Reputation: **no**  
-Additional metrics: **?**  
+Additional metrics: **no**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
 **Extra infos:**
-Programs set rewards limit by month/year.
+Programs set reward limit by month/year.
 <br /><br />
 
 ![Hackrfi](images/bb-platform-hackrfi.png)
