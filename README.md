@@ -182,7 +182,7 @@ Researchers: **?**
 Programs: **?**  
 Visibility: **public, private, exclusive**  
 Public disclosure: **no**  
-Reputation: **wip**  
+Reputation: **work in progress**  
 Additional metrics: **no**  
 Payout methods: **Paypal, cryptocurrency (BTC, LTC, ETH)**  
 **Extra infos:**
@@ -208,13 +208,13 @@ Payout methods: **Paypal, Bitcoin**
 Link: [https://www.federacy.com/](https://www.federacy.com/)  
 Country: **US**  
 Registration: **public**  
-Researchers: **?**  
-Programs: **?**  
-Visibility: **?**  
-Public disclosure: **?**  
-Reputation: **?**  
-Additional metrics: **?**  
-Payout methods: **Paypal, Venmo, Bitcoin, Ethereum**  
+Researchers: **~20**  
+Programs: **~20**  
+Visibility: **public, private**  
+Public disclosure: **no**  
+Reputation: **work in progress**  
+Additional metrics: **no**  
+Payout methods: **Paypal, Venmo, Bitcoin, Ethereum, Stripe on the way**  
 **Extra infos:**
 Currently in a closed beta. If you signed up without an invitation code, there is a hard limit set on your account allowing only 3 reports to be submitted per week.
 <br /><br />
