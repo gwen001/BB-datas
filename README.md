@@ -34,8 +34,8 @@ Payout methods: **Paypal, Payoneer**
 Link: [https://bountyfactory.io/](https://bountyfactory.io/)  
 Country: **France**  
 Registration: **public**  
-Researchers: **~750**  
-Programs: **?**  
+Researchers: **~760**  
+Programs: **10**  
 Visibility: **public, private**  
 Public disclosure: **no**  
 Reputation: **based on reports status, rewards and reports quality**  
