@@ -306,3 +306,23 @@ Reputation: **?**
 Additional metrics: **?**  
 Payout methods: **?**  
 <br /><br />
+
+
+**O day platforms:**
+<br /><hr /><br />
+
+![Zero Day Initiative](images/bb-platform-zdi.png)
+
+Link: [https://www.zerodayinitiative.com/](https://www.zerodayinitiative.com/)  
+Country: **US**  
+Registration: **public**  
+Researchers: **N/A**  
+Programs: **N/A**  
+Visibility: **N/A**  
+Public disclosure: **no**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **wire transfer**  
+**Extra infos:** Trend Micro’s Zero Day Initiative (ZDI) is a program designed to reward security researchers for responsibly disclosing vulnerabilities.
+<br /><br />
+
