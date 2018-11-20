@@ -308,7 +308,7 @@ Payout methods: **?**
 <br /><br />
 
 
-**O day platforms:**
+**0 day platforms:**
 <br /><hr /><br />
 
 ![Zero Day Initiative](images/bb-platform-zdi.png)
