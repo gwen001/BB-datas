@@ -279,6 +279,20 @@ Additional metrics: **?**
 Payout methods: **Paypal, Stripe**  
 <br /><br />
 
+![BugsBounty](images/bb-platform-bugsbounty.png)
+
+Link: [https://bugsbounty.io/](https://bugsbounty.io/)  
+Country: **?**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **?**  
+Visibility: **?**  
+Public disclosure: **?**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
+<br /><br />
+
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
 
 Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
