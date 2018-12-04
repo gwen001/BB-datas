@@ -293,6 +293,20 @@ Additional metrics: **?**
 Payout methods: **?**  
 <br /><br />
 
+![Cyber Army](images/bb-platform-cyberarmy.png)
+
+Link: [https://www.cyberarmy.id/](https://www.cyberarmy.id/)  
+Country: **Indonesia**  
+Registration: **public**  
+Researchers: **~20**  
+Programs: **~10**  
+Visibility: **?**  
+Public disclosure: **no**  
+Reputation: **?**  
+Additional metrics: **?**  
+Payout methods: **?**  
+<br /><br />
+
 ![BugBountyZone](images/bb-platform-bugbountyzone.png)
 
 Link: [https://www.bugbountyzone.com/](https://www.bugbountyzone.com/)  
