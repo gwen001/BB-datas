@@ -1,4 +1,4 @@
-**Last update:** 2018-12-04
+**Last update:** 2018-12-06
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
@@ -29,9 +29,9 @@ Additional metrics: **accuracy**
 Payout methods: **Paypal, Payoneer**  
 <br /><br />
 
-![Bounty Factory](images/bb-platform-bountyfactory.png)
+![Yes We Hack](images/bb-platform-yeswehack.png) (previously Bounty Factory)
 
-Link: [https://bountyfactory.io/](https://bountyfactory.io/)  
+Link: [https://www.yeswehack.com/en/](https://www.yeswehack.com/en/)  
 Country: **France**  
 Registration: **public**  
 Researchers: **~750**  
