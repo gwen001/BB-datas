@@ -282,8 +282,8 @@ Payout methods: **Paypal, Stripe**
 ![BugsBounty](images/bb-platform-bugsbounty.png)
 
 Link: [https://bugsbounty.io/](https://bugsbounty.io/)  
-Country: **?**  
-Registration: **public**  
+Country: India
+Registration: Currently Running Internally
 Researchers: **?**  
 Programs: **?**  
 Visibility: **?**  
