@@ -29,9 +29,9 @@ Additional metrics: **accuracy**
 Payout methods: **Paypal, Payoneer**  
 <br /><br />
 
-![Bounty Factory](images/bb-platform-bountyfactory.png)
+![YesWeHack](images/bb-platform-bountyfactory.png)
 
-Link: [https://bountyfactory.io/](https://bountyfactory.io/)  
+Link: [https://yeswehack.com](https://yeswehack.com)  
 Country: **France**  
 Registration: **public**  
 Researchers: **~750**  
@@ -39,7 +39,7 @@ Programs: **?**
 Visibility: **public, private**  
 Public disclosure: **no**  
 Reputation: **based on reports status, rewards and reports quality**  
-Additional metrics: **no**  
+Additional metrics: **1st response, reports last week, reports last 24h**  
 Payout methods: **bank transfer**  
 <br /><br />
 
