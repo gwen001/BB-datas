@@ -283,7 +283,7 @@ Payout methods: **Paypal, Stripe**
 
 Link: [https://bugsbounty.io/](https://bugsbounty.io/)  
 Country: **India**  
-Registration: **Currently Running Internally**  
+Registration: **currently running internally**  
 Researchers: **?**  
 Programs: **?**  
 Visibility: **?**  
