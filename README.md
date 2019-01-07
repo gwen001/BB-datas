@@ -1,4 +1,4 @@
-**Last update:** 2018-12-06
+**Last update:** 2018-12-11
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
@@ -293,6 +293,20 @@ Additional metrics: **?**
 Payout methods: **?**  
 <br /><br />
 
+![Crowd Shield](images/bb-platform-crowdshield.png)
+
+Link: [https://crowdshield.com/](https://crowdshield.com/)  
+Country: **CA**  
+Registration: **public**  
+Researchers: **?**  
+Programs: **~20**  
+Visibility: **public, private**  
+Public disclosure: **yes**  
+Reputation: **reports criticity**  
+Additional metrics: **?**  
+Payout methods: **?**  
+<br /><br />
+
 ![Cyber Army](images/bb-platform-cyberarmy.png)
 
 Link: [https://www.cyberarmy.id/](https://www.cyberarmy.id/)  
@@ -325,6 +339,20 @@ Payout methods: **?**
 **0 day platforms:**
 <br /><hr /><br />
 
+![Zerodium](images/bb-platform-zerodium.png)
+
+Link: [https://zerodium.com/](https://zerodium.com/)  
+Country: **US**  
+Registration: **no need**  
+Researchers: **N/A**  
+Programs: **N/A**  
+Visibility: **N/A**  
+Public disclosure: **no**  
+Reputation: **N/A**  
+Additional metrics: **N/A**  
+Payout methods: **wire transfer, Bitcoin**  
+<br /><br />
+
 ![Zero Day Initiative](images/bb-platform-zdi.png)
 
 Link: [https://www.zerodayinitiative.com/](https://www.zerodayinitiative.com/)  
@@ -337,6 +365,18 @@ Public disclosure: **no**
 Reputation: **?**  
 Additional metrics: **?**  
 Payout methods: **wire transfer**  
-**Extra infos:** Trend Micro’s Zero Day Initiative (ZDI) is a program designed to reward security researchers for responsibly disclosing vulnerabilities.
 <br /><br />
 
+![Crowdfense](images/bb-platform-crowdfense.png)
+
+Link: [https://zerodium.com/](https://www.crowdfense.com/)  
+Country: **UAE**  
+Registration: **no need**  
+Researchers: **N/A**  
+Programs: **N/A**  
+Visibility: **N/A**  
+Public disclosure: **no**  
+Reputation: **N/A**  
+Additional metrics: **N/A**  
+Payout methods: **?**  
+<br /><br />
