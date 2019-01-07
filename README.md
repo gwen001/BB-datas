@@ -369,7 +369,7 @@ Payout methods: **wire transfer**
 
 ![Crowdfense](images/bb-platform-crowdfense.png)
 
-Link: [https://zerodium.com/](https://www.crowdfense.com/)  
+Link: [https://www.crowdfense.com/](https://www.crowdfense.com/)  
 Country: **UAE**  
 Registration: **no need**  
 Researchers: **N/A**  
