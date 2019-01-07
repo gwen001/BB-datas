@@ -265,7 +265,7 @@ Payout methods: **up to the company**
 Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure platform allows independent security researchers to report XSS and similar security vulnerabilities on any website they discover.  
 <br /><br />
 
-![BountyGraph](images/bb-platform-bountygraph.png)
+![BountyGraph](images/bb-platform-bountygraph.png) (closed)  
 
 Link: [https://bountygraph.com/](https://bountygraph.com/)  
 Country: **US**  
