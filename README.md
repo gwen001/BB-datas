@@ -12,7 +12,7 @@ Visibility: **public, private**
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **signal, impact, badges**  
-Payout methods: **Paypal, Coinbase, bank transfer** 
+Payout methods: **Paypal, Coinbase, bank transfer**
 <br /><br />
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
@@ -125,7 +125,7 @@ Public disclosure: **no**
 Reputation: **no**  
 Additional metrics: **no**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
-**Extra info:** 
+**Extra info:**
 Rewards fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
@@ -267,7 +267,9 @@ Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure 
 
 ![BountyGraph](images/bb-platform-bountygraph.png)
 
-Link: [https://bountygraph.com/](https://bountygraph.com/)  
+*Platform shut down on December 12th, 2018 - [see announcement](https://twitter.com/BountyGraph/status/1065452023406055425)*
+
+~~Link: [https://bountygraph.com/](https://bountygraph.com/)  
 Country: **US**  
 Registration: **public**  
 Researchers: **?**  
@@ -276,9 +278,9 @@ Visibility: **?**
 Public disclosure: **?**  
 Reputation: **?**  
 Additional metrics: **?**  
-Payout methods: **Paypal, Stripe**  
+Payout methods: **Paypal, Stripe**~~
 <br /><br />
-
+~~
 ![BugsBounty](images/bb-platform-bugsbounty.png)
 
 Link: [https://bugsbounty.io/](https://bugsbounty.io/)  
@@ -339,4 +341,3 @@ Additional metrics: **?**
 Payout methods: **wire transfer**  
 **Extra infos:** Trend Micro’s Zero Day Initiative (ZDI) is a program designed to reward security researchers for responsibly disclosing vulnerabilities.
 <br /><br />
-
