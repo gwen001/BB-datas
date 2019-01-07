@@ -267,7 +267,7 @@ Open Bug Bounty is a non-profit Bug Bounty platform. The responsible disclosure 
 
 ![BountyGraph](images/bb-platform-bountygraph.png)
 
-Link: [https://twitter.com/BountyGraph/status/1065452023406055425](https://bountygraph.com/) (closed)  
+Link: [https://bountygraph.com/](https://twitter.com/BountyGraph/status/1065452023406055425) (closed)  
 Country: **US**  
 Registration: **public**  
 Researchers: **?**  
