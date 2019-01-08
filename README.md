@@ -1,4 +1,4 @@
-**Last update:** 2018-12-11
+**Last update:** 2019-01-07
 <br /><hr /><br />
 
 ![hackerone](images/bb-platform-hackerone.png)
