@@ -25,6 +25,7 @@ so please feel free to expand the list in response to this email.
 P.S.: Remember to always remain in scope while testing though. ;)
 ```
 
+<hr />
 
 By EdOverflow:
 ```
