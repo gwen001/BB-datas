@@ -46,11 +46,11 @@ You can read up about this issue in more detail here: https://security.szurek.pl
 - Ed
 ```
 
+<hr />
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">bug bounty tip: Use commoncrawl for finding subdomains and endpoints. Sometimes you find endpoints that can&#39;t directly be visited from the UI but has been indexed from other sites- <br>curl -sX GET &quot;<a href="https://t.co/kqLsJP6iVe">https://t.co/kqLsJP6iVe</a>&quot; | jq -r .url | sort -u <a href="https://twitter.com/hashtag/bugbounty?src=hash&amp;ref_src=twsrc%5Etfw">#bugbounty</a> <a href="https://twitter.com/hashtag/bugbountytip?src=hash&amp;ref_src=twsrc%5Etfw">#bugbountytip</a></p>&mdash; Streaak2 (@streaak) <a href="https://twitter.com/streaak/status/1015236009993203712?ref_src=twsrc%5Etfw">6 juillet 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<hr />
 
 By Karel Origin:
 ```
@@ -66,6 +66,7 @@ https://web.archive.org/web/20180224111037/http://example.com/
 Karel.
 ```
 
+<hr />
 
 By EdOverflow:
 ```
@@ -135,6 +136,8 @@ Have fun!
 [1]: https://github.com/tomnomnom/meg
 ```
 
+<hr />
+
 By EdOverflow:
 ```
 Something along these lines should do the job of automating the www trick.
@@ -157,6 +160,8 @@ Something along these lines should do the job of automating the www trick.
 - Ed
 ```
 
+<hr />
+
 By Justin Gardner:
 ```
 Another cool thing you can do to find some nice subdomain takeovers is: 
@@ -169,6 +174,7 @@ However, most of the time it does.
 -Justin
 ```
 
+<hr />
 
 By EdOverflow:
 ```
@@ -198,6 +204,8 @@ Moral of the story, even misunderstanding Frans can end up uncovering valid issu
 - Ed
 ```
 
+<hr />
+
 By EdOverflow:
 ```
 Hola,
@@ -213,7 +221,7 @@ In two cases recently, I helped escalate the reports from $300 to $1.5k.
 - Ed
 ```
 
-
+<hr />
 
 By EdOverflow:
 ```
