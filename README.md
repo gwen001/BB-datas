@@ -335,6 +335,20 @@ Additional metrics: **?**
 Payout methods: **?**  
 <br /><br />
 
+![Secuna](images/bb-platform-secuna.png)
+
+Link: [https://secuna.io/](https://secuna.io/)  
+Country: **Philippines**  
+Registration: **Background check, ID verification, Video interview**
+Researchers: **100+**  
+Programs: **5+**  
+Visibility: **Public, Private**  
+Public disclosure: **Yes**  
+Reputation: **Based on report status**  
+Additional metrics: **?**  
+Payout methods: **PayPal and Bitcoin**  
+<br /><br />
+
 
 **0 day platforms:**
 <br /><hr /><br />
