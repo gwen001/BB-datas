@@ -339,7 +339,7 @@ Payout methods: **?**
 
 Link: [https://secuna.io/](https://secuna.io/)  
 Country: **Philippines**  
-Registration: **Background check, ID verification, Video interview**
+Registration: **Background check, ID verification, Video interview**  
 Researchers: **100+**  
 Programs: **5+**  
 Visibility: **Public, Private**  
