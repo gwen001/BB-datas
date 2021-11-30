@@ -12,7 +12,7 @@ Visibility: **public, private**
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **signal, impact, badges**  
-Payout methods: **Paypal, Coinbase, bank transfer** 
+Payout methods: **Paypal, Coinbase, bank transfer**
 <br /><br />
 
 ![Bugcrowd](images/bb-platform-bugcrowd.png)
@@ -125,7 +125,7 @@ Public disclosure: **no**
 Reputation: **no**  
 Additional metrics: **no**  
 Payout methods: **Paypal, Bitcoin, bank transfer**  
-**Extra info:** 
+**Extra info:**
 Rewards fixed by the platform ([https://www.zerocopter.com/en/vulnerability-price-list](https://www.zerocopter.com/en/vulnerability-price-list))  
 <br /><br />
 
@@ -349,7 +349,6 @@ Additional metrics: **?**
 Payout methods: **PayPal and Bitcoin**  
 <br /><br />
 
-
 **0 day platforms:**
 <br /><hr /><br />
 
@@ -393,4 +392,20 @@ Public disclosure: **no**
 Reputation: **N/A**  
 Additional metrics: **N/A**  
 Payout methods: **?**  
+<br /><br />
+
+<br /><hr /><br />
+
+![BugBase](images/bb-platform-bugbase.png)
+
+Link: [https://bugbase.in/](https://bugbase.in/)  
+Country: **India**  
+Registration: **public**  
+Researchers: **1500+**  
+Programs: **10+**  
+Visibility: **public, private**  
+Public disclosure: **yes**  
+Reputation: **based on reports status and rewards**  
+Additional metrics: **reputation, badges**  
+Payout methods: **Bank Transfer , UPI**
 <br /><br />
