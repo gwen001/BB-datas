@@ -401,11 +401,11 @@ Payout methods: **?**
 Link: [https://bugbase.in/](https://bugbase.in/)  
 Country: **India**  
 Registration: **public**  
-Researchers: **1500**  
+Researchers: **1500+**  
 Programs: **10+**  
 Visibility: **public, private**  
 Public disclosure: **yes**  
 Reputation: **based on reports status and rewards**  
 Additional metrics: **reputation, badges**  
-Payout methods: **Bank Transfer/ UPI**
+Payout methods: **Bank Transfer , UPI**
 <br /><br />
